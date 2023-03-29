@@ -14,6 +14,7 @@ app.use(cors());
 
 app.use("/posts", postRoutes);
 
+
 const CONNECTION_URL = "mongodb+srv://abayomibalogun:labalaba@cluster0.1y6paaw.mongodb.net/?retryWrites=true&w=majority" 
 const PORT = process.env.PORT || 5000
 
