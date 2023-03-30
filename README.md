@@ -16,9 +16,11 @@ The following frameworks and libraries were used to develop TravelBlog:
 
 
 ## Screenshots
+![Screenshot](./client/src/images/screencapture-642598a86ed5672320795f75-travelogue-client-netlify-app-2023-03-30-16_51_06.png)
    
-Link to Deployed Application
-The back-end of the application is deployed on Heroku, while the front-end is deployed on Netlify. You can access the deployed application here:
+# Link to Deployed Application
+The back-end of the application is deployed on Heroku, while the front-end is deployed on Netlify. You can access the deployed application here: 
+
 
 
 # Demo
